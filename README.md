@@ -27,6 +27,13 @@ pip install pygame
 python game.py
 ```
 thats it you are ready to play.
+
+# Run in Gitpod
+
+You can also run CAR GAME in Gitpod, a free online dev environment for GitHub:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/saadhaxxan/Car_Game_Python_Pygame/blob/master/game.py)
+
 # Enjoy
 
 ----------------------------------------------------------------------------------------------------------------------------------------
